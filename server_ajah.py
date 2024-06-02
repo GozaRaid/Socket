@@ -1,5 +1,4 @@
 from socket import *
-import threading
 
 # Tentukan port dan alamat server
 port = 5555
